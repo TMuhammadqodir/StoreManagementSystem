@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gvsTeyvoIxxCIvADn3A3HBbJ5R0Egx4iU5tHvt2QcJEgZQFp06c0nux2Zk33CP+U0K0H1iUi5CARDsU4ybqFJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muhammadqodir\\OneDrive\\Documents\\Proects\\MagabiteCRM\\StoreManagementSystem.Service\\StoreManagementSystem.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammadqodir\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

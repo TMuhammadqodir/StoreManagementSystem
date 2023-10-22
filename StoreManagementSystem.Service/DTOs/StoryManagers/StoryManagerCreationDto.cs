@@ -1,10 +1,7 @@
-﻿namespace StoreManagementSystem.Service.DTOs.StoryManagers;
+﻿namespace StoreManagementSystem.Service.DTOs.StoreManagers;
 
-public class StoryManagerCreationDto
+public class StoreManagerCreationDto
 {
-    public string FirstName { get; set; }
-    public string LastName { get; set; }
-    public string TelNumber { get; set; }
-    public string Email { get; set; }
+    public string Username { get; set; }
     public string Password { get; set; }
 }

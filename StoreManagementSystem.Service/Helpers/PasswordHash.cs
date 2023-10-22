@@ -1,6 +1,6 @@
 ﻿namespace StoreManagementSystem.Service.Helpers;
 
-public class PasswordHasher
+public class PasswordHash
 {
     public static (string PasswordHash, string Passwordsalt) Hash(string Password)
     {

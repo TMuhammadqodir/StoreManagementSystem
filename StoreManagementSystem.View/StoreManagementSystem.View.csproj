@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ProduceReferenceAssembly>True</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Files\Cache.txt" />
+    <None Remove="Icons\Add.png" />
+    <None Remove="Icons\Delete.png" />
+    <None Remove="Icons\Edit.png" />
+    <None Remove="Icons\Home2.png" />
+    <None Remove="Icons\Menu.png" />
+    <None Remove="Icons\Papka.png" />
+    <None Remove="Icons\PasswordHider.png" />
+    <None Remove="Icons\Setting.png" />
+    <None Remove="Icons\Store.png" />
+    <None Remove="Images\LogInPicture.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StoreManagementSystem.Data\StoreManagementSystem.Data.csproj" />
+    <ProjectReference Include="..\StoreManagementSystem.Service\StoreManagementSystem.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Files\Cache.txt" />
+    <Resource Include="Icons\Add.png" />
+    <Resource Include="Icons\Delete.png" />
+    <Resource Include="Icons\Edit.png" />
+    <Resource Include="Icons\Home2.png" />
+    <Resource Include="Icons\Menu.png" />
+    <Resource Include="Icons\Papka.png" />
+    <Resource Include="Icons\PasswordHider.png" />
+    <Resource Include="Icons\Setting.png" />
+    <Resource Include="Icons\Store.png" />
+    <Resource Include="Images\LogInPicture.jpg" />
+  </ItemGroup>
+
+</Project>

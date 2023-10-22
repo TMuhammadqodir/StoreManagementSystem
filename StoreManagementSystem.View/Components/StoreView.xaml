@@ -1,0 +1,59 @@
+﻿<UserControl x:Class="StoreManagementSystem.View.Components.StoreView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StoreManagementSystem.View.Components"
+        mc:Ignorable="d"
+        Height="100"
+        Width="820"
+        BorderThickness="2">
+    <Border Background="#687EFF">
+        <Grid Margin="10,10,10,2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="40"/>
+                    <ColumnDefinition Width="40"/>
+                </Grid.ColumnDefinitions>
+
+                <Label x:Name="lbName"
+                    FontSize="15"
+                       FontWeight="Bold"
+                    Foreground="Black"
+                    Grid.Column="0"/>
+
+                <Button x:Name="btnEdit" 
+                    HorizontalAlignment="Right"
+                    Grid.Column="1"
+                    Width="30"
+                    Click="Clicked_Edit"
+                    Height="30">
+                    <Image Source="C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.View\Icons\Edit.png"/>
+                </Button>
+
+                <Button x:Name="btnDelete" 
+                    HorizontalAlignment="Right"
+                    Grid.Column="2"
+                    Width="30"
+                    Click="Clicked_Delete"
+                    Height="30">
+                    <Image Source="C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.View\Icons\Delete.png"/>
+                </Button>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <TextBlock x:Name="tbDescription"
+                FontSize="15"
+                TextWrapping="Wrap"
+                Foreground="Black"
+                />
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

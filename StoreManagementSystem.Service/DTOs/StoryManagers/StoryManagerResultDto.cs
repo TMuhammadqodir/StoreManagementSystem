@@ -1,10 +1,12 @@
-﻿namespace StoreManagementSystem.Service.DTOs.StoryManagers;
+﻿using StoreManagementSystem.Domain.Entities;
+using StoreManagementSystem.Service.DTOs.Stories;
 
-public class StoryManagerResultDto
+namespace StoreManagementSystem.Service.DTOs.StoreManagers;
+
+public class StoreManagerResultDto
 {
     public long Id { get; set; }
-    public string FirstName { get; set; }
-    public string LastName { get; set; }
-    public string TelNumber { get; set; }
-    public string Email { get; set; }
+    public string Username { get; set; }
+    public ICollection<StoreResultDto> Stores { get; set; }
+
 }

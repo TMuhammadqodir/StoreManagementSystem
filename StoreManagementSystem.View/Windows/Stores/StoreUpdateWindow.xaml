@@ -1,0 +1,82 @@
+﻿<Window x:Class="StoreManagementSystem.View.Windows.Stores.StoreUpdateWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StoreManagementSystem.View.Windows.Stores"
+        WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d"
+        Background="#362FD9"
+        Height="380" Width="300"
+        Title="StoreUpdateWindow">
+    <StackPanel>
+        <Label
+            Content="Name"
+            Height="30"
+            Foreground="white"
+            FontSize="15"
+            FontWeight="Bold"
+        />
+        <Border BorderThickness="2"
+            Margin="5,5,5,5"
+            Height="40"
+            Background="#FAF0E4"
+            CornerRadius="15">
+
+            <TextBox
+                x:Name="tbName"
+                VerticalAlignment="Center"
+                MaxLength="50"
+                Margin="10,0,10,0"
+                Background="#FAF0E4"
+                FontSize="15"
+                Foreground="Black"
+                BorderThickness="0"
+                />
+
+        </Border>
+
+        <Label
+            Margin="0,5,0,0"
+            Content="Description"
+            Height="40"
+            Foreground="white"
+            FontSize="15"
+            FontWeight="Bold"
+        />
+        <Border BorderThickness="2"
+            Margin="5,0,5,5"
+            Height="150"
+            Background="#FAF0E4"
+            CornerRadius="20">
+            <RichTextBox
+                x:Name="rtnDescription"
+                VerticalAlignment="Center"
+                Margin="10,0,10,0"
+                Height="140"
+                Background="#FAF0E4"
+                FontSize="15"
+                Foreground="Black"
+                BorderThickness="0"
+            />
+        </Border>
+
+        <Border BorderThickness="2"
+            Margin="5,10,5,5"
+            Height="40"
+            Background="#FAF0E4"
+            CornerRadius="10">
+
+            <Button
+                x:Name="btnCreate"
+                Margin="5,5,5,5"
+                Content="Update"
+                FontSize="20"
+                FontWeight="Bold"
+                BorderThickness="0"
+                Click="Update_Button"
+                Foreground="#362FD9">
+            </Button>
+        </Border>
+    </StackPanel>
+</Window>

@@ -1,0 +1,12 @@
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Domain\bin\Debug\net7.0\StoreManagementSystem.Domain.deps.json
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Domain\bin\Debug\net7.0\StoreManagementSystem.Domain.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Domain\bin\Debug\net7.0\StoreManagementSystem.Domain.pdb
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Domain\obj\Debug\net7.0\StoreManagementSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Domain\obj\Debug\net7.0\StoreManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Domain\obj\Debug\net7.0\StoreManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Domain\obj\Debug\net7.0\StoreManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Domain\obj\Debug\net7.0\StoreManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Domain\obj\Debug\net7.0\StoreManagementSystem.Domain.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Domain\obj\Debug\net7.0\refint\StoreManagementSystem.Domain.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Domain\obj\Debug\net7.0\StoreManagementSystem.Domain.pdb
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Domain\obj\Debug\net7.0\ref\StoreManagementSystem.Domain.dll

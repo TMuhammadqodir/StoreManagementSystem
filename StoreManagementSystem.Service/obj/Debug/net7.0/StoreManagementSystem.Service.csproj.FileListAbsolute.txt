@@ -1,0 +1,17 @@
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\bin\Debug\net7.0\StoreManagementSystem.Service.deps.json
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\bin\Debug\net7.0\StoreManagementSystem.Service.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\bin\Debug\net7.0\StoreManagementSystem.Service.pdb
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\bin\Debug\net7.0\StoreManagementSystem.Data.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\bin\Debug\net7.0\StoreManagementSystem.Domain.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\bin\Debug\net7.0\StoreManagementSystem.Data.pdb
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\bin\Debug\net7.0\StoreManagementSystem.Domain.pdb
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\obj\Debug\net7.0\StoreManagementSystem.Service.csproj.AssemblyReference.cache
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\obj\Debug\net7.0\StoreManagementSystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\obj\Debug\net7.0\StoreManagementSystem.Service.AssemblyInfoInputs.cache
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\obj\Debug\net7.0\StoreManagementSystem.Service.AssemblyInfo.cs
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\obj\Debug\net7.0\StoreManagementSystem.Service.csproj.CoreCompileInputs.cache
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\obj\Debug\net7.0\StoreManagementSystem.Service.csproj.CopyComplete
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\obj\Debug\net7.0\StoreManagementSystem.Service.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\obj\Debug\net7.0\refint\StoreManagementSystem.Service.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\obj\Debug\net7.0\StoreManagementSystem.Service.pdb
+C:\Users\Muhammadqodir\OneDrive\Documents\Proects\MagabiteCRM\StoreManagementSystem.Service\obj\Debug\net7.0\ref\StoreManagementSystem.Service.dll

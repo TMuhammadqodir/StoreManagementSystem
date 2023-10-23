@@ -245,7 +245,6 @@ public partial class Register : Window
 
     public void ChangeText()
     {
-        tbUsername.Text = "Username";
         tbPassword.Text = "Password";
         tbRetypePassword.Text = "Retype password";
         PasswordText = "";

@@ -139,10 +139,10 @@ public partial class Login : Window
 
             var mainwindow = new MainWindow();
             mainwindow.Show();
+            tbUsername.Text = "Username";
             this.Close();
         }
 
-        tbUsername.Text = "Username";
         tbPassword.Text = "Password";
         PasswordText = "";
     }
